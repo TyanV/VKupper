@@ -31,7 +31,7 @@ def main ():
 
 	task = input ('Введите задачу:')
 
-	tokens = input ('Введите название файл с токенами:')
+	tokens = input ('Введите название файла с токенами:')
 
 	with open(tokens, 'r') as f:
 		nums = f.read().splitlines()
