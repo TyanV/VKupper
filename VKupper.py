@@ -13,7 +13,7 @@ def clear():
 
 
 def main ():
-
+	print("Не забудь написать, это важно: pip install vk\n")
 	print ("""
 
 Наш уютный Телеграм: @Termuxtop
